@@ -1,0 +1,2 @@
+# Resources
+Translation ---> Deepl API
